@@ -1,0 +1,24 @@
+:root {
+    --themecolor: #ef5488; /* Default theme color */
+  }
+
+// themecolor
+$themecolor: var(--themecolor);
+
+$primarybtn: var(--themecolor);
+
+$white: #fff;
+
+$mate-black: #212121;
+
+$black: #474646;
+
+$gradient-one: var(--themecolor);
+
+$gradient-two: var(--themecolor);
+
+$footer-back-color:#000;
+
+$header-top-color:#000;
+
+$breadcrumbs-color:#000;
